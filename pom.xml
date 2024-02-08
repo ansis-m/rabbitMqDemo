@@ -9,5 +9,6 @@
         <module>consumer</module>
         <module>anotherConsumer</module>
         <module>producer</module>
+        <module>helper</module>
     </modules>
 </project>
